@@ -2,7 +2,7 @@ import {BrowserRouter, Route, Routes } from 'react-router-dom'
 import Home from './Pages/Home'
 import Shopping from './Pages/Shopping'
 import Cart from './Pages/Cart'
-import Login from './Login';
+import Login from './Pages/Login'
 
 const Navbar = () => {
   return (
